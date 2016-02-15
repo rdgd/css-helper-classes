@@ -1,0 +1,23 @@
+{
+  "name": "css-helper-classes",
+  "version": "1.0.0",
+  "description": "Commonly used style helper classes built using SASS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "SASS",
+    "helpers"
+  ],
+  "author": " <Ryan Gray ryan.is.gray@gmail.com>",
+  "license": "WTFPL",
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-cli": "^0.1.13",
+    "grunt-contrib-cssmin": "^0.14.0",
+    "grunt-contrib-watch": "^0.6.1",
+    "grunt-sass": "^1.1.0",
+    "sass-commons": "^1.0.0"
+  }
+}
