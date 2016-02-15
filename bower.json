@@ -10,7 +10,7 @@
     "SASS",
     "helpers"
   ],
-  "homepage": "https://github.com/rdgd/css-helper-classes",
+  "homepage": "https://github.com/rdgd/helper-classes",
   "moduleType": [],
   "ignore": [
     "**/.*",
