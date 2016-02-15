@@ -1,0 +1,22 @@
+{
+  "name": "css-helper-classes",
+  "description": "Commonly used style helper classes built using SASS",
+  "main": "index.js",
+  "authors": [
+    "<Ryan Gray ryan.is.gray@gmail.com>"
+  ],
+  "license": "WTFPL",
+  "keywords": [
+    "SASS",
+    "helpers"
+  ],
+  "homepage": "https://github.com/rdgd/css-helper-classes",
+  "moduleType": [],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
