@@ -1,6 +1,6 @@
 {
   "name": "sass-helper-classes",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "Commonly used style helper classes built using SASS",
   "main": "index.js",
   "scripts": {
