@@ -36,7 +36,7 @@
   text-align: right;
 }
 
-@media all and (max-width: $break-xl) {
+@media all and (min-width: $break-min-xl) {
   .block-xl {
     display: block;
     width: 100%;
@@ -77,7 +77,7 @@
   }
 }
 
-@media all and (max-width: $break-lg) {
+@media all and (min-width: $break-min-lg) {
   .block-lg {
     display: block;
     width: 100%;
@@ -118,7 +118,7 @@
   }
 }
 
-@media all and (max-width: $break-md) {
+@media all and (min-width: $break-min-md) {
   .block-md {
     display: block;
     width: 100%;
@@ -159,7 +159,7 @@
   }
 }
 
-@media all and (max-width: $break-sm) {
+@media all and (min-width: $break-min-sm) {
   .block-sm {
     display: block;
     width: 100%;
@@ -200,7 +200,7 @@
   }
 }
 
-@media all and (max-width: $break-xs) {
+@media all and (min-width: $break-min-xs) {
   .block-xs {
     display: block;
     width: 100%;
